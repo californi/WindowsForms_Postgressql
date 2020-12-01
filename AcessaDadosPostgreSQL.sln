@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessaDadosPostgreSQL", "AcessaDadosPostgreSQL\AcessaDadosPostgreSQL.csproj", "{785B432F-A68B-4BAC-BD2D-87FD8F3D53AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoADados", "AcessoADados\AcessoADados.csproj", "{66494AD8-DDDC-4287-A78A-0805A7D2709B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{785B432F-A68B-4BAC-BD2D-87FD8F3D53AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785B432F-A68B-4BAC-BD2D-87FD8F3D53AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785B432F-A68B-4BAC-BD2D-87FD8F3D53AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66494AD8-DDDC-4287-A78A-0805A7D2709B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66494AD8-DDDC-4287-A78A-0805A7D2709B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66494AD8-DDDC-4287-A78A-0805A7D2709B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66494AD8-DDDC-4287-A78A-0805A7D2709B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
